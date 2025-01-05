@@ -1,0 +1,16 @@
+{
+  "name": "vitest-poll-workers-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@cloudflare/vitest-pool-workers": "^0.5.40",
+    "vitest": "^2.1.8"
+  }
+}
